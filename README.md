@@ -168,6 +168,9 @@ npm run dev
 - Mobile app version of the tool
 - Integration with video conferencing for sales calls
 
+## Project Link
+https://lead-conversion-compass.lovable.app/
+
 ## Contributing
 
 Please read our contribution guidelines before submitting pull requests.
