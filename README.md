@@ -2,6 +2,8 @@
 
 An AI-powered, self-serve tool designed to re-engage and convert cold leads by providing immediate, personalized value through professional skill gap analysis and course recommendations.
 
+**Published URL**: https://lead-conversion-compass.lovable.app/
+
 ## Overview
 
 The Career Growth Catalyst is a sophisticated lead reactivation system that transforms dormant leads into enrolled students by diagnosing their professional skill gaps against current job market demands and presenting personalized learning solutions.
@@ -167,9 +169,6 @@ npm run dev
 - A/B testing framework for email templates
 - Mobile app version of the tool
 - Integration with video conferencing for sales calls
-
-## Project Link
-https://lead-conversion-compass.lovable.app/
 
 ## Contributing
 
